@@ -1,0 +1,22 @@
+
+*{ box-sizing: border-box }
+
+img {
+   width: 100%;
+   display: block;
+}
+
+#app-container{
+  font-size: 0;
+}
+
+.legislators-info{
+  font-size: 14px;
+  background-color: #D9F1C9;
+  width: 28%;
+  display: inline-block;
+  vertical-align: top;
+  margin: 12px;
+  padding-left: 12px;
+  min-height: 220px;
+}
